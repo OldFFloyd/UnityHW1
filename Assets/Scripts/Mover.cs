@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class Mover : MonoBehaviour
 {
-    private float _movementSpeed = 1.5f;
+    private float _movementSpeed = 2f;
 
     private void Update()
     {
