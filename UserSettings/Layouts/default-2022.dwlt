@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 2560
     height: 1349
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Scene
   m_RootView: {fileID: 8}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -100,7 +100,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 150}
   m_MaxSize: {x: 24288, y: 24288}
   vertical: 0
-  controlID: 114
+  controlID: 116
   draggingID: 0
 --- !u!114 &5
 MonoBehaviour:
@@ -560,7 +560,7 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 7c1e0000
+      m_SelectedIDs: 
       m_LastClickedID: 0
       m_ExpandedIDs: 30fbffff
       m_RenameOverlay:
@@ -966,7 +966,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.31719306, y: -0.29739222, z: 0.105355255, w: 0.894279}
     speed: 2
-    m_Value: {x: -0.31719306, y: 0.29739222, z: -0.105355255, w: -0.894279}
+    m_Value: {x: 0.3172108, y: -0.29740885, z: 0.10536115, w: 0.894329}
   m_Size:
     m_Target: 4.247309
     speed: 2
